@@ -11,7 +11,7 @@ export const playlist: Song[] = [
     title: "Midnight Jazz",
     artist: "Jazz Ensemble",
     duration: "4:35",
-    url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    src={}
     cover: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=800&q=80"
   },
   {
